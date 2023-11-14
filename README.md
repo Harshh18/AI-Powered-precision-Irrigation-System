@@ -20,7 +20,7 @@ The approach involves utilizing artificial intelligence to monitor soil moisture
     - **Control Systems:** Implementing logic for valve control using Python or other programming languages.
     - **Actuators:** Solenoid valves or pumps for irrigation control.
 -  **User Interface:**
-    - **Figma:** It enables collaborative and efficient UI/UX development, helping to create visually appealing and user-friendly interfaces for controlling and monitoring the irrigation             system. Figma allows for real-time collaboration, which aids in streamlining the design process and ensuring that the UI meets the project's requirements effectively. 
+- **Figma:** It enables collaborative and efficient UI/UX development, helping to create visually appealing and user-friendly interfaces for controlling and monitoring the irrigation system. Figma allows for real-time collaboration, which aids in streamlining the design process and ensuring that the UI meets the project's requirements effectively. 
 
 
 **Version Control**:
@@ -30,5 +30,5 @@ The approach involves utilizing artificial intelligence to monitor soil moisture
 - **Jupyter Notebook**: These are popular choices for Python development, offering features like code autocompletion and debugging.
 ## Authors
 This project has been proposed and prepared by the team **Technoholics**.
-## Special thanks to our contributors
+
 
