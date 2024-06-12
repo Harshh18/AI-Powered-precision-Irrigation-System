@@ -28,6 +28,12 @@ The approach involves utilizing artificial intelligence to monitor soil moisture
 
 **IDE (Integrated Development Environment)**:
 - **Jupyter Notebook**: These are popular choices for Python development, offering features like code autocompletion and debugging.
+
+## Thanks to all the contributors 🌟
+<a href="https://github.com/Harshh18/AI-Powered-precision-Irrigation-System/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Harshh18/AI-Powered-precision-Irrigation-System" />
+</a> 
+
 ## Authors
 This project has been proposed and prepared by the team **Technoholics**.
 
